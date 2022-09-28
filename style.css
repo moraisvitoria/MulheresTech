@@ -71,7 +71,7 @@ a {
 
 /* Ao passar o mouse sobre um link, usando a pseudo classe ":hover" */
 a:hover {
-  color: rgb(255, 69, 0);
+  color: purple;
   text-decoration: none;
 }
 
